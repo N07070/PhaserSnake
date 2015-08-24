@@ -6,6 +6,7 @@
 
 This little game is a game of snake. I made it to start learning HTML5 game development. I encourage you to do the same.
 As a further exercise, I packaged it into a node-webkit application. Otherwise, you could just open the index.html in your browser with a server appended.
+I hope you have fun playing it ! If you know how to code and would like to help, please feel free to create a pull request at <https://github.com/N07070/PhaserSnake>
 
 ## License
 
