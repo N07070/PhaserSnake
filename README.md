@@ -8,6 +8,22 @@ This little game is a game of snake. I made it to start learning HTML5 game deve
 As a further exercise, I packaged it into a node-webkit application. Otherwise, you could just open the index.html in your browser with a server appended.
 I hope you have fun playing it ! If you know how to code and would like to help, please feel free to create a pull request at <https://github.com/N07070/PhaserSnake>
 
+## Downloads
+
+A binary is included with this git repo. You can download yours in the `build/nw-app/` folder. I only currently support Linux 64, but you can build and play with osx 64 and win64, but if's there is a bug I might not fix it. Please feel free to submit code if you find a bug & fix for it. Thanks !
+
+### Linux
+
+![](assets/builds/linux.png)
+
+### OS X
+
+![](assets/builds/osx.png)
+
+### Windows
+
+![](assets/builds/win.png)
+
 ## License
 
 ```
